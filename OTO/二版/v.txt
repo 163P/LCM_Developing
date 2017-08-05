@@ -1,0 +1,294 @@
+v_bo.wavv_bo.wav=v b_o,1,2,3,4,5
+v_bu.wav=v b_u,1,2,3,4,5
+v_bv.wav=v b_v,1,2,3,4,5
+v_ba.wav=v b_a,1,2,3,4,5
+v_bao.wav=v b_au,1,2,3,4,5
+v_ben.wav=v b_e,1,2,3,4,5
+v_bei.wav=v b_el,1,2,3,4,5
+v_beng.wav=v b_eu,1,2,3,4,5
+v_bi.wav=v b_i,1,2,3,4,5
+v_bian.wav=v by_an,1,2,3,4,5
+v_po.wav=v p_o,1,2,3,4,5
+v_pu.wav=v p_u,1,2,3,4,5
+v_pa.wav=v p_a,1,2,3,4,5
+v_pao.wav=v p_au,1,2,3,4,5
+v_pen.wav=v p_e,1,2,3,4,5
+v_pei.wav=v p_el,1,2,3,4,5
+v_peng.wav=v p_eu,1,2,3,4,5
+v_pi.wav=v p_i,1,2,3,4,5
+v_pian.wav=v py_an_o,1,2,3,4,5
+v_mo.wav=v m_o,1,2,3,4,5
+v_mu.wav=v m_u,1,2,3,4,5
+v_ma.wav=v m_a,1,2,3,4,5
+v_mao.wav=v m_au,1,2,3,4,5
+v_me.wav=v m_e,1,2,3,4,5
+v_mei.wav=v m_el,1,2,3,4,5
+v_meng.wav=v m_eu,1,2,3,4,5
+v_mi.wav=v m_i,1,2,3,4,5
+v_mian.wav=v my_an,1,2,3,4,5
+v_fo.wav=v f_o,1,2,3,4,5
+v_fu.wav=v f_u,1,2,3,4,5
+v_fa.wav=v f_a,1,2,3,4,5
+v_fao.wav=v f_au,1,2,3,4,5
+v_fe.wav=v f_e,1,2,3,4,5
+v_fei.wav=v f_el,1,2,3,4,5
+v_feng.wav=v f_eu,1,2,3,4,5
+v_hu.wav=v h_u,1,2,3,4,5
+v_ha.wav=v h_a,1,2,3,4,5
+v_hao.wav=v h_au,1,2,3,4,5
+v_he.wav=v h_e,1,2,3,4,5
+v_hei.wav=v h_el,1,2,3,4,5
+v_heng.wav=v h_eu,1,2,3,4,5
+v_du.wav=v d_u,1,2,3,4,5
+v_da.wav=v d_a,1,2,3,4,5
+v_dao.wav=v d_au,1,2,3,4,5
+v_de.wav=v d_e,1,2,3,4,5
+v_dei.wav=v d_el,1,2,3,4,5
+v_deng.wav=v d_eu,1,2,3,4,5
+v_di.wav=v d_i,1,2,3,4,5
+v_dian.wav=v dy_an,1,2,3,4,5
+v_ru.wav=v r_u,1,2,3,4,5
+v_rao.wav=v r_au,1,2,3,4,5
+v_re.wav=v r_e,1,2,3,4,5
+v_rei.wav=v r_el,1,2,3,4,5
+v_reng.wav=v r_eu,1,2,3,4,5
+v_ri.wav=v r_i,1,2,3,4,5
+v_tu.wav=v t_u,1,2,3,4,5
+v_ta.wav=v t_a,1,2,3,4,5
+v_tao.wav=v t_au,1,2,3,4,5
+v_te.wav=v t_e,1,2,3,4,5
+v_tei.wav=v t_el,1,2,3,4,5
+v_teng.wav=v t_eu,1,2,3,4,5
+v_ti.wav=v t_i,1,2,3,4,5
+v_tian.wav=v ty_an,1,2,3,4,5
+v_nu.wav=v n_u,1,2,3,4,5
+v_nv.wav=v n_v,1,2,3,4,5
+v_na.wav=v n_a,1,2,3,4,5
+v_nao.wav=v n_au,1,2,3,4,5
+v_ne.wav=v n_e,1,2,3,4,5
+v_nei.wav=v n_el,1,2,3,4,5
+v_neng.wav=v n_eu,1,2,3,4,5
+v_ni.wav=v n_i,1,2,3,4,5
+v_nian.wav=v ny_an,1,2,3,4,5
+v_ku.wav=v k_u,1,2,3,4,5
+v_ka.wav=v k_a,1,2,3,4,5
+v_kao.wav=v k_au,1,2,3,4,5
+v_ke.wav=v k_e,1,2,3,4,5
+v_keng.wav=v k_eu,1,2,3,4,5
+v_ki.wav=v k_i,1,2,3,4,5
+v_lu.wav=v l_u,1,2,3,4,5
+v_lv.wav=v l_v,1,2,3,4,5
+v_la.wav=v l_a,1,2,3,4,5
+v_lao.wav=v l_au,1,2,3,4,5
+v_le.wav=v l_e,1,2,3,4,5
+v_lei.wav=v l_el,1,2,3,4,5
+v_leng.wav=v l_eu,1,2,3,4,5
+v_li.wav=v l_i,1,2,3,4,5
+v_lian.wav=v ly_an,1,2,3,4,5
+v_yv.wav=v y_v,1,2,3,4,5
+v_ya.wav=v y_a,1,2,3,4,5
+v_yao.wav=v y_au,1,2,3,4,5
+v_ye.wav=v y_e,1,2,3,4,5
+v_yi.wav=v y_i,1,2,3,4,5
+v_yan.wav=v y_an,1,2,3,4,5
+v_jv.wav=v j_v,1,2,3,4,5
+v_ji.wav=v j_i,1,2,3,4,5
+v_jian.wav=v jy_an,1,2,3,4,5
+v_cu.wav=v c_u,1,2,3,4,5
+v_ca.wav=v c_a,1,2,3,4,5
+v_cao.wav=v c_au,1,2,3,4,5
+v_ce.wav=v c_e,1,2,3,4,5
+v_ceng.wav=v c_eu,1,2,3,4,5
+v_ci.wav=v c_i,1,2,3,4,5
+v_qv.wav=v q_v,1,2,3,4,5
+v_qi.wav=v q_i,1,2,3,4,5
+v_qian.wav=v qy_an,1,2,3,4,5
+v_wo.wav=v w_o,1,2,3,4,5
+v_wu.wav=v w_u,1,2,3,4,5
+v_wa.wav=v w_a,1,2,3,4,5
+v_wang.wav=v w_au,1,2,3,4,5
+v_wen.wav=v w_e,1,2,3,4,5
+v_wei.wav=v w_el,1,2,3,4,5
+v_weng.wav=v w_eu,1,2,3,4,5
+v_xv.wav=v x_v,1,2,3,4,5
+v_xi.wav=v x_i,1,2,3,4,5
+v_xian.wav=v xy_an,1,2,3,4,5
+v_su.wav=v s_u,1,2,3,4,5
+v_sa.wav=v s_a,1,2,3,4,5
+v_sao.wav=v s_au,1,2,3,4,5
+v_se.wav=v s_e,1,2,3,4,5
+v_seng.wav=v s_eu,1,2,3,4,5
+v_si.wav=v s_i,1,2,3,4,5
+v_zu.wav=v z_u,1,2,3,4,5
+v_za.wav=v z_a,1,2,3,4,5
+v_zao.wav=v z_au,1,2,3,4,5
+v_ze.wav=v z_e,1,2,3,4,5
+v_zeng.wav=v z_eu,1,2,3,4,5
+v_zi.wav=v z_i,1,2,3,4,5
+v_zhu.wav=v zh_u,1,2,3,4,5
+v_zha.wav=v zh_a,1,2,3,4,5
+v_zhao.wav=v zh_au,1,2,3,4,5
+v_zhe.wav=v zh_e,1,2,3,4,5
+v_zhei.wav=v zh_el,1,2,3,4,5
+v_zheng.wav=v zh_eu,1,2,3,4,5
+v_zhi.wav=v zh_i,1,2,3,4,5
+v_gu.wav=v g_u,1,2,3,4,5
+v_ga.wav=v g_a,1,2,3,4,5
+v_gao.wav=v g_au,1,2,3,4,5
+v_ge.wav=v g_e,1,2,3,4,5
+v_gei.wav=v g_el,1,2,3,4,5
+v_geng.wav=v g_eu,1,2,3,4,5
+v_shu.wav=v sh_u,1,2,3,4,5
+v_sha.wav=v sh_a,1,2,3,4,5
+v_shao.wav=v sh_au,1,2,3,4,5
+v_she.wav=v sh_e,1,2,3,4,5
+v_shei.wav=v sh_el,1,2,3,4,5
+v_sheng.wav=v sh_eu,1,2,3,4,5
+v_shi.wav=v sh_i,1,2,3,4,5
+v_bu.wav
+v_bv.wav
+v_ba.wav
+v_bao.wav
+v_ben.wav
+v_bei.wav
+v_beng.wav
+v_bi.wav
+v_bian.wav
+v_po.wav
+v_pu.wav
+v_pa.wav
+v_pao.wav
+v_pen.wav
+v_pei.wav
+v_peng.wav
+v_pi.wav
+v_pian.wav
+v_mo.wav
+v_mu.wav
+v_ma.wav
+v_mao.wav
+v_me.wav
+v_mei.wav
+v_meng.wav
+v_mi.wav
+v_mian.wav
+v_fo.wav
+v_fu.wav
+v_fa.wav
+v_fao.wav
+v_fe.wav
+v_fei.wav
+v_feng.wav
+v_hu.wav
+v_ha.wav
+v_hao.wav
+v_he.wav
+v_hei.wav
+v_heng.wav
+v_du.wav
+v_da.wav
+v_dao.wav
+v_de.wav
+v_dei.wav
+v_deng.wav
+v_di.wav
+v_dian.wav
+v_ru.wav
+v_rao.wav
+v_re.wav
+v_rei.wav
+v_reng.wav
+v_ri.wav
+v_tu.wav
+v_ta.wav
+v_tao.wav
+v_te.wav
+v_tei.wav
+v_teng.wav
+v_ti.wav
+v_tian.wav
+v_nu.wav
+v_nv.wav
+v_na.wav
+v_nao.wav
+v_ne.wav
+v_nei.wav
+v_neng.wav
+v_ni.wav
+v_nian.wav
+v_ku.wav
+v_ka.wav
+v_kao.wav
+v_ke.wav
+v_keng.wav
+v_ki.wav
+v_lu.wav
+v_lv.wav
+v_la.wav
+v_lao.wav
+v_le.wav
+v_lei.wav
+v_leng.wav
+v_li.wav
+v_lian.wav
+v_yv.wav
+v_ya.wav
+v_yao.wav
+v_ye.wav
+v_yi.wav
+v_yan.wav
+v_jv.wav
+v_jiao.wav
+v_ji.wav
+v_jian.wav
+v_cu.wav
+v_ca.wav
+v_cao.wav
+v_ce.wav
+v_ceng.wav
+v_ci.wav
+v_qv.wav
+v_qi.wav
+v_qian.wav
+v_wo.wav
+v_wu.wav
+v_wa.wav
+v_wang.wav
+v_we.wav
+v_wei.wav
+v_weng.wav
+v_xv.wav
+v_xi.wav
+v_xian.wav
+v_su.wav
+v_sa.wav
+v_sao.wav
+v_se.wav
+v_seng.wav
+v_si.wav
+v_zu.wav
+v_za.wav
+v_zao.wav
+v_ze.wav
+v_zeng.wav
+v_zi.wav
+v_zhu.wav
+v_zha.wav
+v_zhao.wav
+v_zhe.wav
+v_zhei.wav
+v_zheng.wav
+v_zhi.wav
+v_gu.wav
+v_ga.wav
+v_gao.wav
+v_ge.wav
+v_gei.wav
+v_geng.wav
+v_shu.wav
+v_sha.wav
+v_shao.wav
+v_she.wav
+v_shei.wav
+v_sheng.wav
+v_shi.wav
